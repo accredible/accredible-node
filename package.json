@@ -1,0 +1,15 @@
+{
+  "name": "accredible-express-api",
+  "version": "1.0.0",
+  "description": "Use the Accredible API via Node / Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David \"@oodavid\" King",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "request-promise": "^4.2.2"
+  }
+}
