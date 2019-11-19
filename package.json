@@ -1,6 +1,6 @@
 {
   "name": "accredible-express-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use the Accredible API via Node / Express",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "David \"@oodavid\" King",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.2",
-    "request-promise": "^4.2.2"
+    "express": "^4.17.1",
+    "request-promise": "^4.2.5"
   }
 }
